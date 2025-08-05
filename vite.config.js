@@ -3,7 +3,8 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: '/lista-mandado-app/',   // si publicas en GitHub Pages
+  // En Netlify tu app vive en la raíz, no en /lista-mandado-app/
+  base: '/',
   plugins: [
     react(),
   ],
