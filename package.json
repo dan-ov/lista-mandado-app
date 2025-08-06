@@ -1,8 +1,8 @@
 {
-  "name": "lista-mandado-app",
+  "name": "registro-medicamentos-app",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://dan-ov.github.io/lista-mandado-app",
+  "homepage": "https://dan-ov.github.io/registro-medicamentos-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
